@@ -20,9 +20,9 @@ force-https: True
 # HTML Head #
 #############
 
-author: "Sonam Sood"
+author: "Muskan Sood"
 lang: "en"
-title: "{ Sonam Sood }"
+title: "{Muskan Sood }"
 favicon: "/img/favicon.ico"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
