@@ -23,7 +23,7 @@ force-https: True
 author: "Muskan Sood"
 lang: "en"
 title: "{Muskan Sood }"
-favicon: "/img/favicon.ico"
+favicon: "students-graduating-blue-cap-gown1.jpg"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 
